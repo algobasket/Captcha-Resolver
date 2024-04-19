@@ -1,0 +1,10 @@
+opencv-python
+matplotlib
+numpy
+scipy
+pytesseract
+google-cloud-vision
+setuptools 
+
+
+
